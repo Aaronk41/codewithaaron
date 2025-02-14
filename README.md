@@ -19,6 +19,6 @@ Integrating AI models into web applications.
 Exploring data engineering best practices and tools.
 
 📫 How to reach me
-<div display="flex"> <a href="[Your LinkedIn Profile Link]"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:georgak@mail.uc.edu"> <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
+<div display="flex"> <a href="[[Your LinkedIn Profile Link](https://www.linkedin.com/in/aarongeorge25/)]"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:georgak@mail.uc.edu"> <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
 ⚡ Fun fact
 I’m an anime/manga fan, also I do enjoy exploring new cultures and traveling whenever I can! 🌍
